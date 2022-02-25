@@ -4,7 +4,7 @@
 
 Repositori ini dibuat untuk memenuhi tugas praktikum mata kuliah Desain Pemrograman Berorientasi Objek.
 
-###### Desain Program
+##### Desain Program
 Program terdiri atas 4 class, yaitu Processor, RAM, Disk, dan PC.
 
 PC merupakan Composite class bagi Processor, RAM, dan Disk karena di dalam PC terdapat komponen-komponen tersebut.
@@ -26,7 +26,7 @@ PC terdiri atas atribut:
 - name
 - totalPrice
 
-##### Deskripsi Program
+#### Deskripsi Program
 Program dibuat ke dalam 4 bahasa:
 
 Java
@@ -35,7 +35,7 @@ Python
 PHP
 Seluruh atribut merupakan atribut private. Data dimasukkan ke dalam object menggunakan setter. Data yang terdapat di dalam object selanjutnya dicetak sebagai output menggunakan getter.
 
-##### Tampilan Program
+#### Tampilan Program
 1. Java
 
 ![java](https://user-images.githubusercontent.com/91965618/155633910-d02dbd13-23e1-4203-8bcb-dc85b16861bb.PNG)
