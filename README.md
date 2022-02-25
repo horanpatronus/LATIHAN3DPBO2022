@@ -25,6 +25,7 @@ Disk terdiri atas atribut:
 PC terdiri atas atribut:
 - name
 - totalPrice
+- composition dari class Processor, RAM, dan Disk
 
 #### Deskripsi Program
 Program dibuat ke dalam 4 bahasa:
